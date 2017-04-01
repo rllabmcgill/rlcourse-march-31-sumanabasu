@@ -4,4 +4,4 @@
 
 ### Implementation :
       * n-step SARSA
-      * SARSA( λλ )
+      * SARSA(λ)
