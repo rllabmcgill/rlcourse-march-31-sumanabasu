@@ -6,3 +6,5 @@
 
 * n-step SARSA
 * SARSA(λ)
+
+### Domain : GridWorld
