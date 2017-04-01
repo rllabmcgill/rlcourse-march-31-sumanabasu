@@ -3,5 +3,6 @@
 ## Sumana Basu (260727568)
 
 ### Implementation :
-      * n-step SARSA
-      * SARSA(λ)
+
+* n-step SARSA
+* SARSA(λ)
